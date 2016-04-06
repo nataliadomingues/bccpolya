@@ -1,0 +1,17 @@
+Algoritmo "Calcular aproximação da raiz quadrada"
+//
+//
+// Descrição : Calcular uma aproximação da raiz quadrada de um número real.
+// Autor : Natália Domingues de Alcânatara
+// Data atual : 06/04/2016
+Var
+// Seção de Declarações das variáveis
+a: real
+b: inteiro
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc...
+escreva(" Digite o valor: ")
+leia(a)
+escreva(" A raiz quadrada de ", a, " = ", raizq(a): 1:2)
+
+Fimalgoritmo
